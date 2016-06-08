@@ -1,0 +1,51 @@
+body{
+	margin:0;
+	padding: 0;
+	width: 90%
+	max-width:1000px;
+	background-color: #B0E0E6;
+}
+.myPage{
+	background-color: #F8F8FF;
+	width: 90%;
+	margin:30px auto;
+	max-width: 1000px;
+	list-style: none;
+	height: 100%;
+	border-radius: 20%;
+}
+.heading{
+	text-align: center;
+	font-family: monospace;
+	font-size: 30px;
+	font-weight: bold;
+	color: #6A5ACD;
+}
+img{
+	border-radius: 50%;
+	width: 250px;
+}
+.personal-info{
+	font-size: 20px;
+}
+.sideContent{
+	padding-left: 40px;
+	font-family: monospace;
+	font-weight: bold;
+	background-color:#2F4F4F;
+	font-size: 20px;
+	color:#9ffd32;
+	border-radius: 1%;
+
+}
+.contents{
+	  border-top: 3px solid #9ffd32;
+	padding-left: 200px;
+	font-size: 10px;
+	font-family: helvetica;
+	padding-right : 20px
+
+
+
+}
+
